@@ -8,7 +8,7 @@ django-cors-headers==2.5.2
 django-debug-toolbar==1.11
 django-taggit==1.1.0
 djangorestframework==3.9.2
-freezegun==0.3.11
+freezegun==1.1.0
 funcy==1.11
 packaging==19.0
 pyparsing==2.3.1
